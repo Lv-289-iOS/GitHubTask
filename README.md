@@ -41,6 +41,9 @@ HHHHHHHHHHHHUUUUuuuuuuuUUUUuuuuUUUuuuUu
 ----------------------
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Anya-gilochka
 Буду тя любити.
 
 
@@ -53,9 +56,17 @@ dsgsdggs
 dsgsdgsd
 dsgsdgdsg
 dsgsdgdsgg
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> DN
+=======
+<<<<<<< HEAD
+
+Жопка
+=======
+=======
+>>>>>>> Anya-gilochka
 rzxdtcfyiokpl[;]
 xrdctfvygbuhinjomkp,l[.;]/['\]
 
@@ -65,6 +76,11 @@ dfxcgvbhuingcfxdcgvhuijopoiuyftres6t7y8u9i0
 sdvuihopsdviohiojdsofjko
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> DN
 =======
 >>>>>>> DN
+=======
+>>>>>>> DN
+>>>>>>> master
+>>>>>>> Anya-gilochka
