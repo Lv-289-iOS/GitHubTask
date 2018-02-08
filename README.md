@@ -5,7 +5,7 @@ Part 1
 Котра дівка файна,
 Вити заміж мусить.
 
-Висить ябко, висить,
+Висить ябко, висить
 Висить паперівка...
 
  Як ся гонорує, -
@@ -36,3 +36,11 @@ Part 2
 Дай ми ся напити,
 
 ----------------------
+rzxdtcfyiokpl[;]
+xrdctfvygbuhinjomkp,l[.;]/['\]
+
+srxdctfvygbuhinjmokp,l[.;]/'
+
+dfxcgvbhuingcfxdcgvhuijopoiuyftres6t7y8u9i0
+sdvuihopsdviohiojdsofjko
+
