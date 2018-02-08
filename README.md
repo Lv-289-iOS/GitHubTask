@@ -39,7 +39,6 @@ HHHHHHHHHHHHUUUUuuuuuuuUUUUuuuuUUUuuuUu
 Дай ми ся напити,
 
 ----------------------
-<<<<<<< HEAD
 Буду тя любити.
 
 
@@ -52,11 +51,8 @@ dsgsdggs
 dsgsdgsd
 dsgsdgdsg
 dsgsdgdsgg
-<<<<<<< HEAD
 
 Жопка
-=======
-=======
 rzxdtcfyiokpl[;]
 xrdctfvygbuhinjomkp,l[.;]/['\]
 
@@ -64,6 +60,3 @@ srxdctfvygbuhinjmokp,l[.;]/'
 
 dfxcgvbhuingcfxdcgvhuijopoiuyftres6t7y8u9i0
 sdvuihopsdviohiojdsofjko
-
->>>>>>> DN
->>>>>>> master
