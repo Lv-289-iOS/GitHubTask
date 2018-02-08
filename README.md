@@ -40,6 +40,7 @@ HHHHHHHHHHHHUUUUuuuuuuuUUUUuuuuUUUuuuUu
 
 ----------------------
 <<<<<<< HEAD
+<<<<<<< HEAD
 Буду тя любити.
 
 
@@ -53,6 +54,8 @@ dsgsdgsd
 dsgsdgdsg
 dsgsdgdsgg
 =======
+=======
+>>>>>>> DN
 rzxdtcfyiokpl[;]
 xrdctfvygbuhinjomkp,l[.;]/['\]
 
@@ -61,4 +64,7 @@ srxdctfvygbuhinjmokp,l[.;]/'
 dfxcgvbhuingcfxdcgvhuijopoiuyftres6t7y8u9i0
 sdvuihopsdviohiojdsofjko
 
+<<<<<<< HEAD
+>>>>>>> DN
+=======
 >>>>>>> DN
