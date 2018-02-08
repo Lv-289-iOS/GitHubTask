@@ -5,7 +5,7 @@ Part 1
 Котра дівка файна,
 Вити заміж мусить.
 
-Висить ябко, висить,
+Висить ябко, висить
 Висить паперівка...
 
  Як ся гонорує, -
@@ -30,7 +30,7 @@ Part 2
 
 А ти ся віддала, -
 
----------------
+HHHHHHHHHHHHUUUUuuuuuuuUUUUuuuuUUUuuuUu
 
 Дівчино, горянко,
 
@@ -39,6 +39,7 @@ Part 2
 Дай ми ся напити,
 
 ----------------------
+<<<<<<< HEAD
 Буду тя любити.
 
 
@@ -51,3 +52,13 @@ dsgsdggs
 dsgsdgsd
 dsgsdgdsg
 dsgsdgdsgg
+=======
+rzxdtcfyiokpl[;]
+xrdctfvygbuhinjomkp,l[.;]/['\]
+
+srxdctfvygbuhinjmokp,l[.;]/'
+
+dfxcgvbhuingcfxdcgvhuijopoiuyftres6t7y8u9i0
+sdvuihopsdviohiojdsofjko
+
+>>>>>>> DN
