@@ -39,48 +39,6 @@ HHHHHHHHHHHHUUUUuuuuuuuUUUUuuuuUUUuuuUu
 Дай ми ся напити,
 
 ----------------------
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> Anya-gilochka
-Буду тя любити.
 
 
-
-
-bdgibsogiodsg
-dsgsdg
-dsgsdgg
-dsgsdggs
-dsgsdgsd
-dsgsdgdsg
-dsgsdgdsgg
-<<<<<<< HEAD
-=======
-=======
->>>>>>> DN
-=======
-<<<<<<< HEAD
-
-Жопка
-=======
-=======
->>>>>>> Anya-gilochka
-rzxdtcfyiokpl[;]
-xrdctfvygbuhinjomkp,l[.;]/['\]
-
-srxdctfvygbuhinjmokp,l[.;]/'
-
-dfxcgvbhuingcfxdcgvhuijopoiuyftres6t7y8u9i0
-sdvuihopsdviohiojdsofjko
-
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> DN
-=======
->>>>>>> DN
-=======
->>>>>>> DN
->>>>>>> master
->>>>>>> Anya-gilochka
+fixed
